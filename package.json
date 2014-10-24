@@ -1,0 +1,19 @@
+{
+  "name": "munin-log",
+  "version": "0.1.0",
+  "description": "Munin DataLog API.",
+  "main": "munin.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "munin"
+  ],
+  "author": "MKGaru",
+  "license": "MIT",
+  "dependencies": {
+    "munin-client": "~0.1.0",
+    "q": "~1.0.1",
+    "sugar": "~1.4.1"
+  }
+}
